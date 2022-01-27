@@ -1,0 +1,2 @@
+- 👋 Hi, I’m VerdeLab
+- 👀 I’m interested in NLP with Python & C#
