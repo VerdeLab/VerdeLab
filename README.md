@@ -8,10 +8,15 @@
 
 >![Pipeline drawio](https://user-images.githubusercontent.com/98537104/151803224-69b05f8a-afce-4fb1-8098-cf6e1ea64bcf.png)
 
-### ✔ **MODULES ACTUALLY AVAILABLE**
+### ✔ **ACTUALLY AVAILABLE MODULES**
 
 * #### Summarizers: The summarizer picks up the original text and extracts the significative sentences. Users can select the language, the number of sentences and most of all, the algorithm with the best performance between ```Text Rank```, ```Latent Semantic Analysis```, ```KL-Sum```, ```Lex Rank```, ```Edmundson``` heurestic method with previous statistic research, Luhn or Reduction method.
 * #### Text Extractors: We use parsers to automatically extract the testual parts from ```PDF``` files, ```HTML``` pages, YouTube videos or E-Mail. The extrapolated text will be analyzed in order to obtain semantic and statistical data.
 * #### Translaters: We use the ```Google Translate API``` to translate the text from a language to another.
 * #### Luigo Chatbot: Luigo is an Italian language conversational chatbot that we implement in our software solutions for a pleasant user experience.
-* 
+* #### Textual Analyzers: This module uses the ```Python NLTK``` to extract keywords, highligh n-grams, words frequences and so on 
+* #### The Semantic Search Engine with ```Dynamic Graph GUI```
+
+### ✔ **COMING SOON MODULES**
+* #### Classifiers: We will improve a specific module to estract intents from texts and uses them for tag classification of contents.
+* #### Event Driven Chatbot: It means a Luigo Chatbot upgrade in which the chatbot will guess the proper action to do from the conversational thread.
