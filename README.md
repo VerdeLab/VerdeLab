@@ -11,7 +11,7 @@
 ### ✔ **ACTUALLY AVAILABLE MODULES**
 
 * #### *Summarizers:*  the summarizer picks up the original text and extracts the significative sentences. Users can select the language, the number of sentences and most of all, the algorithm with the best performance between ```Text Rank```, ```Latent Semantic Analysis```, ```KL-Sum```, ```Lex Rank```, ```Edmundson``` heurestic method with previous statistic research, Luhn or Reduction method.
-* #### *Text Extractors:*  we use parsers to automatically extract the testual parts from ```TXT``` and ```PDF``` files, ```HTML``` pages, YouTube videos or E-Mail. The extrapolated text will be analyzed in order to obtain semantic and statistical data.
+* #### *Text Extractors:*  we use parsers to automatically extract the testual parts from ```TXT``` and ```PDF``` files, ```HTML``` pages, ```YouTube``` videos or E-Mail. The extrapolated text will be analyzed in order to obtain semantic and statistical data.
 * #### *Translaters:*  we use the ```Google Translate API``` to translate the text from a language to another.
 * #### *Luigo Chatbot:*  Luigo is an Italian language conversational chatbot, we implement it in our software solutions for a pleasant user experience.
 * #### *Textual Analyzers:*  this module uses the ```Python NLTK``` to extract keywords, highligh n-grams, words frequences and so on 
