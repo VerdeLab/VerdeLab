@@ -10,8 +10,8 @@
 
 ### MODULES ACTUALLY AVAILABLE
 
-* #### Summarizers = The summarizer picks up the original text and extracts the significative sentences. Users can select the language, the number of sentences and most of all the  algorithm with the best performance between Text Rank, Latent Semantic Analysis, KL-Sum, Lex Rank, Edmundson heurestic method with previous statistic research, Luhn or Reduction method.
-* #### Text Extractors = We use parsers to automatically extract the testual parts from pdf files, html pages, YouTube videos or e-mails. The extrapolated text will be analyzed in order to obtain  semantic and statistical data.
+* #### Summarizers = The summarizer picks up the original text and extracts the significative sentences. Users can select the language, the number of sentences and most of all, the algorithm with the best performance between Text Rank, Latent Semantic Analysis, KL-Sum, Lex Rank, Edmundson heurestic method with previous statistic research, Luhn or Reduction method.
+* #### Text Extractors = We use parsers to automatically extract the testual parts from PDF files, HTML pages, YouTube videos or E-Mail. The extrapolated text will be analyzed in order to obtain semantic and statistical data.
 * #### Translaters = We use the Google Translate API to translate the text from a language to another.
 * #### Luigo Chatbot = Luigo is an Italian language conversational chatbot that we implement in our software solutions for a pleasant user experience.
 * 
