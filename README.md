@@ -28,11 +28,11 @@
 #### The algorithms perform the data mining and statistical analysis, determining trends and patterns in data, the predictive analytics are used to obtain previously unseen information about your environment.  
 #### Our sql-based solutions are ```easy``` to deploy, ```easy``` to integrate in existing tools and workflows and most of all are ```easy``` to consume.
 
-### ✔ **PROJECTS: EXAMPLE OF ARCHIECTURAL SCHEMA **
+### ✔ **EXAMPLE OF ARCHITECTURAL SCHEMA**
 <img width="466" alt="LuigoChatbot" src="https://user-images.githubusercontent.com/98537104/152318523-10d350f3-c065-4ee0-af53-af6d1e69af0a.png">
 
-### ✔ **RESOURSES: **
-#### Our property Italian Language Corpora
+### ✔ **LINGUISTIC RESOURSES**
+#### 👀 For the NLP projects we use our property Italian Language Corpora
 
 
 
