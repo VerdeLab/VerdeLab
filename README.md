@@ -8,7 +8,7 @@
 
 >![Pipeline drawio](https://user-images.githubusercontent.com/98537104/151803224-69b05f8a-afce-4fb1-8098-cf6e1ea64bcf.png)
 
-### ✔ **ACTUALLY AVAILABLE MODULES**
+### ✔ **AVAILABLE MODULES**
 
 * #### *Summarizers:*  the summarizer picks up the original text and extracts the significative sentences. Users can select the language, the number of sentences and most of all, the algorithm with the best performance between ```Text Rank```, ```Latent Semantic Analysis```, ```KL-Sum```, ```Lex Rank```, ```Edmundson``` heurestic method with previous statistic research, Luhn or Reduction method.
 * #### *Text Extractors:*  we use parsers to automatically extract the textual parts from ```TXT``` and ```PDF``` files, ```HTML``` pages, ```YouTube``` videos or E-Mail. The extrapolated text will be analyzed in order to obtain semantic and statistical data.
