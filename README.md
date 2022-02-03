@@ -20,3 +20,10 @@
 ### ✔ **COMING SOON MODULES**
 * #### *Classifiers:*  we will improve a specific module to estract intents from texts and uses them for tag classification of contents.
 * #### *Event Driven Chatbot:*  it means a Luigo Chatbot upgrade, the chatbot will guess the proper action to do from the conversational thread.
+
+# NoNLP ;-)
+
+#### Not only NLP...we develop machine learning solutions for your particular business needs.
+The algorithms perform the data mining and statistical analysis, determining trends and patterns in data, the predictive analytics are used to obtain previously unseen information about your environment.  
+Our sql-based solutions are ```easy``` to deploy, ```easy``` to integrate in existing tools and workflows and most of all are ```easy``` to consume.
+
