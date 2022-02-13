@@ -27,7 +27,7 @@
 #### Not only NLP...we also develop Machine Learning solutions for your particular business needs.
 #### The algorithms perform the data mining and statistical analysis, determining trends and patterns in data, the predictive analytics are used to obtain previously unseen information about your environment.  
 #### Our sql-based solutions are ```easy``` to deploy, ```easy``` to integrate in existing tools and workflows and most of all are ```easy``` to consume.
-![Foresee04](https://user-images.githubusercontent.com/98537104/152327491-67476ea0-8b86-4147-8dc1-1ec21b1a76c1.png)
+>![Foresee04](https://user-images.githubusercontent.com/98537104/152327491-67476ea0-8b86-4147-8dc1-1ec21b1a76c1.png)
 
 >![ML_SQL_WorkFlow-Page-1](https://user-images.githubusercontent.com/98537104/153762973-3b4b98e4-3b1e-4399-a15a-02b0c503554b.png)
 
