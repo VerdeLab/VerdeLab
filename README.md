@@ -35,6 +35,7 @@
 
 >![ML_SQL_WorkFlow-Page-3](https://user-images.githubusercontent.com/98537104/153762988-708a852f-b9a8-49d9-8fe5-0b3abf6e4e7d.png)
 
+
 ### ✔ **EXAMPLE OF ARCHITECTURAL SCHEMA**
 <img width="466" alt="LuigoChatbot" src="https://user-images.githubusercontent.com/98537104/152318523-10d350f3-c065-4ee0-af53-af6d1e69af0a.png">
 
