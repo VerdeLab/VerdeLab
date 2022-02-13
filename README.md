@@ -29,11 +29,11 @@
 #### Our sql-based solutions are ```easy``` to deploy, ```easy``` to integrate in existing tools and workflows and most of all are ```easy``` to consume.
 ![Foresee04](https://user-images.githubusercontent.com/98537104/152327491-67476ea0-8b86-4147-8dc1-1ec21b1a76c1.png)
 
-![ML_SQL_WorkFlow-Page-1](https://user-images.githubusercontent.com/98537104/153762973-3b4b98e4-3b1e-4399-a15a-02b0c503554b.png)
+>![ML_SQL_WorkFlow-Page-1](https://user-images.githubusercontent.com/98537104/153762973-3b4b98e4-3b1e-4399-a15a-02b0c503554b.png)
 
-![ML_SQL_WorkFlow-Page-2](https://user-images.githubusercontent.com/98537104/153762979-5b301f9f-7416-401f-bf82-fc5948b047b0.png)
+>![ML_SQL_WorkFlow-Page-2](https://user-images.githubusercontent.com/98537104/153762979-5b301f9f-7416-401f-bf82-fc5948b047b0.png)
 
-![ML_SQL_WorkFlow-Page-3](https://user-images.githubusercontent.com/98537104/153762988-708a852f-b9a8-49d9-8fe5-0b3abf6e4e7d.png)
+>![ML_SQL_WorkFlow-Page-3](https://user-images.githubusercontent.com/98537104/153762988-708a852f-b9a8-49d9-8fe5-0b3abf6e4e7d.png)
 
 ### ✔ **EXAMPLE OF ARCHITECTURAL SCHEMA**
 <img width="466" alt="LuigoChatbot" src="https://user-images.githubusercontent.com/98537104/152318523-10d350f3-c065-4ee0-af53-af6d1e69af0a.png">
