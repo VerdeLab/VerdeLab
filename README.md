@@ -37,7 +37,7 @@
 
 
 ### ✔ **EXAMPLE OF ARCHITECTURAL SCHEMA**
-<img width="466" alt="LuigoChatbot" src="https://user-images.githubusercontent.com/98537104/152318523-10d350f3-c065-4ee0-af53-af6d1e69af0a.png">
+><img width="466" alt="LuigoChatbot" src="https://user-images.githubusercontent.com/98537104/152318523-10d350f3-c065-4ee0-af53-af6d1e69af0a.png">
 
 ### ✔ **LINGUISTIC RESOURSES**
 #### 👀 For the NLP projects we use our property Italian Language corpora
