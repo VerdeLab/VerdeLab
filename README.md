@@ -22,22 +22,27 @@
 * #### *Event Driven Chatbot:*  it means a Luigo Chatbot upgrade, the chatbot will guess the proper action to do from the conversational thread.
 
 # NoNLP 😉 PROJECTS
-![LogoSQL](https://user-images.githubusercontent.com/98537104/152307103-789765b5-10ec-422e-8248-32590481b2cd.svg) ![Logopy39](https://user-images.githubusercontent.com/98537104/151770484-45817245-9283-44b6-b068-6b73ec6dcde7.svg) ![LogoC](https://user-images.githubusercontent.com/98537104/151771931-4dbfb2f0-5caa-400b-8d0d-10bfccea6983.svg) ![LogoJS](https://user-images.githubusercontent.com/98537104/151771980-1b53935f-b3ac-4e74-a376-787a1e697a42.svg)
+>(https://user-images.githubusercontent.com/98537104/152307103-789765b5-10ec-422e-8248-32590481b2cd.svg) ![Logopy39](https://user-images.githubusercontent.com/98537104/151770484-45817245-9283-44b6-b068-6b73ec6dcde7.svg) ![LogoC](https://user-images.githubusercontent.com/98537104/151771931-4dbfb2f0-5caa-400b-8d0d-10bfccea6983.svg) ![LogoJS](https://user-images.githubusercontent.com/98537104/151771980-1b53935f-b3ac-4e74-a376-787a1e697a42.svg)
 
 #### Not only NLP...we also develop Machine Learning solutions for your particular business needs.
 #### The algorithms perform the data mining and statistical analysis, determining trends and patterns in data, the predictive analytics are used to obtain previously unseen information about your environment.  
 #### Our sql-based solutions are ```easy``` to deploy, ```easy``` to integrate in existing tools and workflows and most of all are ```easy``` to consume.
->![Foresee04](https://user-images.githubusercontent.com/98537104/152327491-67476ea0-8b86-4147-8dc1-1ec21b1a76c1.png)
+>![01](https://user-images.githubusercontent.com/98537104/153820633-1aee7840-041d-4879-a905-43d80ae63a88.png)
 
->![ML_SQL_WorkFlow-Page-1](https://user-images.githubusercontent.com/98537104/153762973-3b4b98e4-3b1e-4399-a15a-02b0c503554b.png)
 
->![ML_SQL_WorkFlow-Page-2](https://user-images.githubusercontent.com/98537104/153763970-8cd5da89-e17d-470f-9b33-d57100ae319a.png)
+>![02](https://user-images.githubusercontent.com/98537104/153820658-aa326cf4-4dd3-43cb-8a78-1585f3817e46.png)
 
->![ML_SQL_WorkFlow-Page-3](https://user-images.githubusercontent.com/98537104/153762988-708a852f-b9a8-49d9-8fe5-0b3abf6e4e7d.png)
+
+>![03](https://user-images.githubusercontent.com/98537104/153820675-f640c2c0-f928-419c-9de4-31358c5e762c.png)
+
+
+>![04](https://user-images.githubusercontent.com/98537104/153820695-7e6133d7-b302-4fa4-a6db-4d0bd1b0159a.png)
+
 
 
 ### ✔ **EXAMPLE OF ARCHITECTURAL SCHEMA**
-><img width="466" alt="LuigoChatbot" src="https://user-images.githubusercontent.com/98537104/152318523-10d350f3-c065-4ee0-af53-af6d1e69af0a.png">
+>![05](https://user-images.githubusercontent.com/98537104/153820878-9f417047-79cc-48a9-8d5c-900790a55986.png)
+
 
 ### ✔ **LINGUISTIC RESOURSES**
 #### 👀 For the NLP projects we use our property Italian Language corpora
