@@ -22,7 +22,7 @@
 * #### *Event Driven Chatbot:*  it means a Luigo Chatbot upgrade, the chatbot will guess the proper action to do from the conversational thread.
 
 # NoNLP 😉 PROJECTS
->(https://user-images.githubusercontent.com/98537104/152307103-789765b5-10ec-422e-8248-32590481b2cd.svg) ![Logopy39](https://user-images.githubusercontent.com/98537104/151770484-45817245-9283-44b6-b068-6b73ec6dcde7.svg) ![LogoC](https://user-images.githubusercontent.com/98537104/151771931-4dbfb2f0-5caa-400b-8d0d-10bfccea6983.svg) ![LogoJS](https://user-images.githubusercontent.com/98537104/151771980-1b53935f-b3ac-4e74-a376-787a1e697a42.svg)
+>![Logopy39](https://user-images.githubusercontent.com/98537104/151770484-45817245-9283-44b6-b068-6b73ec6dcde7.svg) ![LogoC](https://user-images.githubusercontent.com/98537104/151771931-4dbfb2f0-5caa-400b-8d0d-10bfccea6983.svg) ![LogoJS](https://user-images.githubusercontent.com/98537104/151771980-1b53935f-b3ac-4e74-a376-787a1e697a42.svg)
 
 #### Not only NLP...we also develop Machine Learning solutions for your particular business needs.
 #### The algorithms perform the data mining and statistical analysis, determining trends and patterns in data, the predictive analytics are used to obtain previously unseen information about your environment.  
