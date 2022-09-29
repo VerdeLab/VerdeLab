@@ -16,6 +16,7 @@
 * #### *Luigo Chatbot:*  Luigo is an Italian language conversational chatbot, we implement it in our software solutions for a pleasant user experience.
 * #### *Textual Analyzers:*  this module uses the ```Python NLTK``` to extract keywords, highligh n-grams, words frequences and so on 
 * #### *The Semantic Search Engine with* ```Dynamic Graph GUI```
+* #### *Wordnet corpus:*  this module uses the ```Python NLTK``` to extract lemma's antonyms, sinonyms, hyponyms, hyperonyms
 
 ### ✔ **COMING SOON MODULES**
 * #### *Classifiers:*  we will improve a specific module to estract intents from texts and uses them for tag classification of contents.
