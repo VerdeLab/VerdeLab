@@ -17,6 +17,7 @@
 * #### *Textual Analyzers:*  this module uses the ```Python NLTK``` to extract keywords, highligh n-grams, words frequences and so on 
 * #### *The Semantic Search Engine with* ```Dynamic Graph GUI```
 * #### *Wordnet:*  this module uses the ```Python NLTK``` and the ```Wordnet corpus``` to extract lemma's antonyms, sinonyms, hyponyms, hyperonyms
+* #### *GTP-3:* we use the OpenAI power to best perform summaries, transcriptions and semantic search
 
 ### ✔ **COMING SOON MODULES**
 * #### *Classifiers:*  we will improve a specific module to estract intents from texts and uses them for tag classification of contents.
