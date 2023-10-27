@@ -10,13 +10,10 @@ Albinea (RE), Italy
 **PHONE:** (+39) 338 4554 976
 
 **EMAIL:**
-[luigi@verdelab.info](mailto:luigi@verdelab.info) - 
-
-[marzia@verdelab.info](mailto:marzia@verdelab.info)
+[luigi@verdelab.info](mailto:luigi@verdelab.info) - [marzia@verdelab.info](mailto:marzia@verdelab.info)
 
 **WEB:**
-[https://verdelab.info](https://verdelab.info)
-<a href="https://verdelab.info" target="_blank">prova clicca qui</a>
+<a href="https://verdelab.info" target="_blank">https://verdelab.info</a>
 
 **SOCIAL:**
 
@@ -25,11 +22,11 @@ Albinea (RE), Italy
 
 
 # List of our recent software (for sale)
-* #### *[BLAISE<sup>AI</sup>](http://www.blaise.uno){:target="_blank"} - Collaborative platform for the creation and sharing of multimedia content.*
+* #### *[BLAISE<sup>AI</sup>](http://www.blaise.uno) - Collaborative platform for the creation and sharing of multimedia content.*
 * #### *JEWELRY<sup>AI</sup> - Platform for designing jewelry, complete with a catalog of over 1200 pre-made proposals.*
 * #### *SPORTING - Comprehensive solution for sports clubs and facilities: medical certificate deadlines, member registry, reservations, and revenue management.*
 * #### *SPORTING PRENOTA - Reservation app for members and guests of sports facilities using SPORTING.*
-* #### *[TRA'NTRA](https://www.trantra.it){:target="_blank"} - App for automatic transcriptions, translations, and summaries.*
+* #### *<a href="https://trantra.it" target="_blank">TRA'NTRA</a> - App for automatic transcriptions, translations, and summaries.*
 
 
 # Our software modules available for your own projects
