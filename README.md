@@ -22,8 +22,8 @@ Albinea (RE), Italy
 
 
 # List of our recent software (for sale)
-* #### *[BLAISE<sup>AI</sup>](http://www.blaise.uno) - Collaborative platform for the creation and sharing of multimedia content.*
-* #### <a https://www.verdelab.info/rosecut" target="_blank">JEWELS<sup>AI</sup></a> - Platform for designing jewelry, complete with a catalog of over 1200 pre-made proposals.*
+* #### <a href="http://blaise.uno" target="_blank">BLAISE<sup>AI</sup></a> - Collaborative platform for the creation and sharing of multimedia content.
+* #### <a https://www.verdelab.info/rosecut" target="_blank">JEWELS<sup>AI</sup></a> - Platform for designing jewelry, complete with a catalog of over 1200 pre-made proposals.
 * #### *SPORTING - Comprehensive solution for sports clubs and facilities: medical certificate deadlines, member registry, reservations, and revenue management.*
 * #### *SPORTING PRENOTA - Reservation app for members and guests of sports facilities using SPORTING.*
 * #### <a href="http://trantra.it" target="_blank">TRA'NTRA</a> - App for automatic transcriptions, translations, and summaries.
