@@ -26,7 +26,7 @@ Albinea (RE), Italy
 * #### *JEWELRY<sup>AI</sup> - Platform for designing jewelry, complete with a catalog of over 1200 pre-made proposals.*
 * #### *SPORTING - Comprehensive solution for sports clubs and facilities: medical certificate deadlines, member registry, reservations, and revenue management.*
 * #### *SPORTING PRENOTA - Reservation app for members and guests of sports facilities using SPORTING.*
-* #### *<a href="https://trantra.it" target="_blank">TRA'NTRA</a> - App for automatic transcriptions, translations, and summaries.*
+* #### <a href="http://trantra.it" target="_blank">TRA'NTRA</a> - App for automatic transcriptions, translations, and summaries.
 
 
 # Our software modules available for your own projects
