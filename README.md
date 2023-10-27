@@ -11,10 +11,12 @@ Albinea (RE), Italy
 
 **EMAIL:**
 [luigi@verdelab.info](mailto:luigi@verdelab.info) - 
+
 [marzia@verdelab.info](mailto:marzia@verdelab.info)
 
 **WEB:**
 [https://verdelab.info](https://verdelab.info)
+<a href="https://verdelab.info" target="_blank">prova clicca qui</a>
 
 **SOCIAL:**
 
