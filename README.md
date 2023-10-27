@@ -17,7 +17,7 @@ Albinea (RE), Italy
 [https://verdelab.info](https://verdelab.info)
 
 **SOCIAL:**
-[![YouTube](link-all'icona-youtube.png)](https://www.youtube.com/channel/UCVmk9QSo_zTNjAK1QLgHo3w)
+[![YouTube](🔴)](https://www.youtube.com/channel/UCVmk9QSo_zTNjAK1QLgHo3w)
 [![Instagram](link-all'icona-instagram.png)](https://www.instagram.com/verdelab.group/)
 
 
