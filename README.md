@@ -2,24 +2,24 @@
 - 👀 I’m interested in NLP projects, with Python, C# and Javascript.
 - 🤩 We leverage Artificial Intelligence and Machine Learning to streamline routes, offer shortcuts, and enhance user interfaces.
 
-In addition to being active in the field of consultancy and custom software development, VerdeLab produces and sells internally developed solutions and components. If you are a software company looking to expand your offerings or a sales representative, do not hesitate to contact us.
+In addition to being active in the field of consultancy and custom software development, we __produces and sells__ internally developed solutions and components. If you are a software company looking to expand your offerings or a sales representative, do not hesitate to contact us.
 
-**LOCATION**
+**LOCATION:**
 Albinea (RE), Italy
 
 **PHONE:** (+39) 338 4554 976
 
 **EMAIL:**
-[luigi@verdelab.info](mailto:luigi@verdelab.info)
+[luigi@verdelab.info](mailto:luigi@verdelab.info) - 
 [marzia@verdelab.info](mailto:marzia@verdelab.info)
 
 **WEB:**
 [https://verdelab.info](https://verdelab.info)
 
 **SOCIAL:**
-[![YouTube](https://www.youtube.com/channel/UCVmk9QSo_zTNjAK1QLgHo3w)
-[![icons8-youtube-36](https://github.com/VerdeLab/VerdeLab/assets/98537104/fa1702f8-be4a-4da8-9de4-415e71b3858d) YouTube](https://www.youtube.com/channel/UCVmk9QSo_zTNjAK1QLgHo3w)
-[![Instagram](link-all'icona-instagram.png)](https://www.instagram.com/verdelab.group/)
+
+[![icons8-youtube-48](https://github.com/VerdeLab/VerdeLab/assets/98537104/9c0d437d-0788-4a70-9694-6a5880459e1e)](https://www.youtube.com/channel/UCVmk9QSo_zTNjAK1QLgHo3w)
+[![icons8-instagram-48](https://github.com/VerdeLab/VerdeLab/assets/98537104/f2660ae6-2537-4634-8753-b766203d16f7)](https://www.instagram.com/verdelab.group/)
 
 
 # List of our recent software (for sale)
