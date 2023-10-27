@@ -4,12 +4,29 @@
 
 In addition to being active in the field of consultancy and custom software development, VerdeLab produces and sells internally developed solutions and components. If you are a software company looking to expand your offerings or a sales representative, do not hesitate to contact us.
 
+**LOCATION**
+Albinea (RE), Italy
+
+**PHONE:** (+39) 338 4554 976
+
+**EMAIL:**
+[luigi@verdelab.info](mailto:luigi@verdelab.info)
+[marzia@verdelab.info](mailto:marzia@verdelab.info)
+
+**WEB:**
+[https://verdelab.info](https://verdelab.info)
+
+**SOCIAL:**
+[![YouTube](link-all'icona-youtube.png)](https://www.youtube.com/channel/UCVmk9QSo_zTNjAK1QLgHo3w)
+[![Instagram](link-all'icona-instagram.png)](https://www.instagram.com/verdelab.group/)
+
+
 # List of our recent software (for sale)
-* #### *[BLAISE<sup>AI</sup>](https://www.blaise.uno) - Collaborative platform for the creation and sharing of multimedia content.*
+* #### *[BLAISE<sup>AI</sup>](http://www.blaise.uno){:target="_blank"} - Collaborative platform for the creation and sharing of multimedia content.*
 * #### *JEWELRY<sup>AI</sup> - Platform for designing jewelry, complete with a catalog of over 1200 pre-made proposals.*
 * #### *SPORTING - Comprehensive solution for sports clubs and facilities: medical certificate deadlines, member registry, reservations, and revenue management.*
 * #### *SPORTING PRENOTA - Reservation app for members and guests of sports facilities using SPORTING.*
-* #### *TRA'NTRA - App for automatic transcriptions, translations, and summaries.*
+* #### *[TRA'NTRA](https://www.trantra.it){:target="_blank"} - App for automatic transcriptions, translations, and summaries.*
 
 
 # Our software modules available for your own projects
