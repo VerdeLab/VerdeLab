@@ -1,8 +1,13 @@
 - 👋 Hi, I’m VerdeLab
 - 👀 I’m interested in NLP projects, with Python, C# and Javascript.
-- 🤩 In our project, we leverage Artificial Intelligence and Machine Learning to streamline routes, offer shortcuts, and enhance user interfaces.
-# List of our software (for sale)
-* #### *BLAISE<sup>AI</sup>:*
+- 🤩 We leverage Artificial Intelligence and Machine Learning to streamline routes, offer shortcuts, and enhance user interfaces.
+
+In addition to being active in the field of consultancy and custom software development, VerdeLab produces and sells internally developed solutions and components. If you are a software company looking to expand your offerings or a sales representative, do not hesitate to contact us.
+
+# List of our recent software (for sale)
+* #### *BLAISE<sup>AI</sup>*
+* #### *Jewelry<sup>AI</sup>*
+* #### *TRA'NTRA*
 
 
 # Our software modules available for your own projects
