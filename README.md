@@ -5,7 +5,7 @@
 In addition to being active in the field of consultancy and custom software development, VerdeLab produces and sells internally developed solutions and components. If you are a software company looking to expand your offerings or a sales representative, do not hesitate to contact us.
 
 # List of our recent software (for sale)
-* #### *BLAISE<sup>AI</sup> - Collaborative platform for the creation and sharing of multimedia content.*
+* #### *[BLAISE<sup>AI</sup>](https://www.blaise.uno) - Collaborative platform for the creation and sharing of multimedia content.*
 * #### *JEWELRY<sup>AI</sup> - Platform for designing jewelry, complete with a catalog of over 1200 pre-made proposals.*
 * #### *SPORTING - Comprehensive solution for sports clubs and facilities: medical certificate deadlines, member registry, reservations, and revenue management.*
 * #### *SPORTING PRENOTA - Reservation app for members and guests of sports facilities using SPORTING.*
