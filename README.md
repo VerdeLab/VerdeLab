@@ -29,6 +29,9 @@ Albinea (RE), Italy
 *  <a href="http://trantra.it" target="_blank">TRA'NTRA</a> - App for automatic transcriptions, translations, and summaries.
 *  <a href="https://www.verdelab.info/v/index.html#port" target="_blank">And more...</a>
 
+# About Blaise
+We are particularly proud of this project.
+
 # Our software modules available for your own projects
 ![Logopy39](https://user-images.githubusercontent.com/98537104/151770484-45817245-9283-44b6-b068-6b73ec6dcde7.svg) ![LogoC](https://user-images.githubusercontent.com/98537104/151771931-4dbfb2f0-5caa-400b-8d0d-10bfccea6983.svg) ![LogoJS](https://user-images.githubusercontent.com/98537104/151771980-1b53935f-b3ac-4e74-a376-787a1e697a42.svg)
 
