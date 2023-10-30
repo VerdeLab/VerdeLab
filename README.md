@@ -32,6 +32,86 @@ Albinea (RE), Italy
 # About Blaise
 We are particularly proud of this project.
 
+**THE CONCEPT**
+
+At the core of the project lies a simple idea:
+to create an intelligent tool for communities of users operating in specific knowledge contexts, where source quality and oversight are paramount. Blaise<sup>AI</sup> caters to an audience of users seeking to engage and specialize in a particular subject.
+
+Blaise<sup>AI</sup> aims to serve as a tool for aggregating specialized knowledge, offering an effective and reliable alternative to mainstream, generalist solutions. Active user participation is absolutely essential for achieving qualitatively significant results.
+
+Artificial Intelligence is harnessed here to facilitate pathways, provide shortcuts, and humanize interfaces, but the undisputed protagonist is humanity itself – sentient beings eager to share their knowledge and learn in an environment devoid of distractions, as pure and protected as possible.
+
+Therefore, it functions as a content hub for a particular discipline or the know-how of a specific domain. Think of it as a specialized cloud. Users are provided with a variety of tools and features to consume, produce, distribute, and nurture content. It's a collaborative platform that sees the interaction between users as a source of strength and an avenue for individual growth.
+
+Blaise's knowledge is fueled by text, images, and links, but it's primarily tailored for tutorial videos, conference recordings, and more. Every piece of content provided to the system is meticulously selected and verified by the system administrators.
+
+The initial release of Blaise<sup>AI</sup> was trained on Blender, the renowned open-source 3D modeling software. Course creators and tutorial authors utilize the platform to analyze, enhance, and develop the content of their video lessons, where they explain step-by-step techniques in the challenging realm of 3D modeling. Learners, on the other hand, use the platform to acquire and specialize in 3D modeling.
+
+**USERS**
+
+Users access the platform in the following roles:
+
+1. **Admins:** Owners of the platform and responsible for content management.
+2. **Authors:** Producers or sponsors of the content provided by the platform. They are tasked with enhancing and validating Blaise's core knowledge.
+3. **Learners:** In the role of learners, users utilize Blaise for specialized research and self-education.
+
+
+**ELABORATION OF TEXT**
+
+Blaise<sup>AI</sup> possesses formidable linguistic capabilities, which prove invaluable for both content creation and consumption. You can pose questions in natural language and receive a selection of video clips containing only the most relevant content in response to your query. The answers are consistently precise and to the point, allowing you to consult only the specific portions of the video that interest you, resulting in significant time savings. Moreover, you can request audio transcription from a video and simultaneously improve the text, for example, by adding punctuation and correcting inaccuracies.
+
+**For Owners:**
+Owners are the sponsors of the platform and those who certify its contents. They bear the responsibility for governance.
+
+**For Authors:**
+Blaise<sup>AI</sup> is an ideal tool for content producers. Within seconds, you can obtain transcriptions, summaries, condensations, rewrites in various styles, translations, as well as conceptual maps and word clouds of terms within the text. Furthermore, it enables the automation of quiz creation with corresponding solutions for assessing the correct comprehension of the content.
+
+**For Learners:**
+For those seeking content, Blaise<sup>AI</sup> is highly advantageous. Thanks to the potent search engine personified by the virtual agent Blaise, you can swiftly and precisely retrieve the information you need. Communication occurs through interactive conversation, with responses tailored to the user's expertise and sources meticulously selected.
+
+**OVERVIEW OF KEY FEATURES**
+
+**The Search Engine**
+It is a powerful and refined tool, simple to use. No specific skills are required. You just need to ask questions to the virtual assistant, Blaise, just as you would with a real mentor or tutor!
+
+**What Responses Do You Get?**
+Blaise provides a list of video clips and resources related to the topic of your question. Responses are tailored to your level of expertise. Search results are organized using probabilistic criteria.
+
+**Resource Quality**
+Credibility and quality of information are guaranteed by the authors and sponsors of BlaiseAI's content. Every source is always tracked and explicitly disclosed.
+
+**Notebooks**
+Use them to organize your knowledge: write, incorporate video clips, links, and images. Contents can be shared, integrated into Blaise's knowledge, and accessed via the search engine.
+
+**Idea Board**
+It's the virtual space for exchanging ideas with other users. Imagine a non-generalist, ad-free social platform where you stimulate and engage in discussions on specific topics.
+
+**Courses**
+Plan your personal learning path or follow a course offered by others. Machine Learning and Artificial Intelligence are used to guide you step by step in your self-education journey.
+
+**Messages**
+To facilitate exchanges and collaborations among users and to bring the community together on common interests, Blaise<sup>AI</sup> has its own internal messaging system.
+
+**Tools for Curators**
+Content editors of Blaise<sup>AI</sup> can independently upload videos and multimedia resources via an AI-based console. Thanks to Artificial Intelligence, it's possible to improve and extract knowledge from texts in seconds. The platform's competence will be proportional to the quality of the inputted texts and the ability to extract as much information as possible.
+
+**From Information Comes Information**
+BlaiseAI is designed to learn from user interactions. The more you use it, the more specialized it becomes. As the tool grows, the quality of the results obtained will also increase.
+
+**THE INCUBATOR**
+
+The idea behind Blaise was conceived in Albinea, in the province of Reggio Emilia, Italy, during a friendly conversation envisioning the future of AI-based applications.
+
+The analysis and development were entirely undertaken by VerdeLab.
+
+Special thanks go to Arch. Fiorentino Sarro, a teacher and digital animator at the MIUR, who inspired the project and conceived the iconic character Blaise.
+
+We also express our gratitude to Roberto Germano, a physicist and the founder of Promete, a spin-off company of the National Institute for the Physics of Matter (INFM-CNR), who has been a staunch supporter of VerdeLab's projects.
+
+Last but not least, a well-deserved mention goes to our amiable Blaise. We like to think of him as a personable, affable, chatty, and knowledgeable individual.
+
+To borrow the words of the greatest of Italians, Dante Alighieri, we imagined and created Blaise as a trustworthy and sincere guide for us humans who were not made to live like brutes, but to pursue virtue and knowledge (cit. "che fatti non fummo per viver come bruti, ma per seguir virtute e canoscenza")
+
 # Our software modules available for your own projects
 ![Logopy39](https://user-images.githubusercontent.com/98537104/151770484-45817245-9283-44b6-b068-6b73ec6dcde7.svg) ![LogoC](https://user-images.githubusercontent.com/98537104/151771931-4dbfb2f0-5caa-400b-8d0d-10bfccea6983.svg) ![LogoJS](https://user-images.githubusercontent.com/98537104/151771980-1b53935f-b3ac-4e74-a376-787a1e697a42.svg)
 
