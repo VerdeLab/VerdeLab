@@ -30,6 +30,8 @@ Albinea (RE), Italy
 *  <a href="https://www.verdelab.info/v/index.html#port" target="_blank">And more...</a>
 
 # About Blaise
+![Logopy39](https://user-images.githubusercontent.com/98537104/151770484-45817245-9283-44b6-b068-6b73ec6dcde7.svg) ![LogoC](https://user-images.githubusercontent.com/98537104/151771931-4dbfb2f0-5caa-400b-8d0d-10bfccea6983.svg) ![LogoJS](https://user-images.githubusercontent.com/98537104/151771980-1b53935f-b3ac-4e74-a376-787a1e697a42.svg)
+
 We are particularly proud of this project.
 
 **THE CONCEPT**
@@ -56,7 +58,7 @@ Users access the platform in the following roles:
 3. **Learners:** In the role of learners, users utilize Blaise for specialized research and self-education.
 
 
-**ELABORATION OF TEXT**
+**TEXT ELABORATION**
 
 Blaise<sup>AI</sup> possesses formidable linguistic capabilities, which prove invaluable for both content creation and consumption. You can pose questions in natural language and receive a selection of video clips containing only the most relevant content in response to your query. The answers are consistently precise and to the point, allowing you to consult only the specific portions of the video that interest you, resulting in significant time savings. Moreover, you can request audio transcription from a video and simultaneously improve the text, for example, by adding punctuation and correcting inaccuracies.
 
