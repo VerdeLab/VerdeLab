@@ -20,7 +20,7 @@ Albinea (RE), Italy
 [![icons8-youtube-48](https://github.com/VerdeLab/VerdeLab/assets/98537104/9c0d437d-0788-4a70-9694-6a5880459e1e)](https://www.youtube.com/channel/UCVmk9QSo_zTNjAK1QLgHo3w)
 [![icons8-instagram-48](https://github.com/VerdeLab/VerdeLab/assets/98537104/f2660ae6-2537-4634-8753-b766203d16f7)](https://www.instagram.com/verdelab.group/)
 
-**LINKEDIN:** <a https://www.linkedin.com/company/verdelabgroup/?viewAsMember=true/" target="_blank">https://verdelab.info</a>
+**LINKEDIN:** <a href="https://www.linkedin.com/company/verdelabgroup/?viewAsMember=true/" target="_blank">https://verdelab.info</a>
 
 # About Blaise
 ![Logopy39](https://user-images.githubusercontent.com/98537104/151770484-45817245-9283-44b6-b068-6b73ec6dcde7.svg) ![LogoC](https://user-images.githubusercontent.com/98537104/151771931-4dbfb2f0-5caa-400b-8d0d-10bfccea6983.svg) ![LogoJS](https://user-images.githubusercontent.com/98537104/151771980-1b53935f-b3ac-4e74-a376-787a1e697a42.svg)
