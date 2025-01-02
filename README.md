@@ -19,6 +19,7 @@ Albinea (RE), Italy
 [![icons8-youtube-48](https://github.com/VerdeLab/VerdeLab/assets/98537104/9c0d437d-0788-4a70-9694-6a5880459e1e)](https://www.youtube.com/channel/UCVmk9QSo_zTNjAK1QLgHo3w)
 [![icons8-instagram-48](https://github.com/VerdeLab/VerdeLab/assets/98537104/f2660ae6-2537-4634-8753-b766203d16f7)](https://www.instagram.com/verdelab.group/)
 [![linkedin](https://github.com/user-attachments/assets/bd1aba60-ab08-4362-a56f-3d99e00ede88)](https://www.linkedin.com/company/verdelabgroup)
+[![linkedin42](https://github.com/user-attachments/assets/6c61ad6f-654d-4bdf-87af-7cc47fccac26)](https://www.linkedin.com/company/verdelabgroup)
 
 **LINKED IN:** <a href="https://www.linkedin.com/company/verdelabgroup" target="_blank">Accedi</a>
 
