@@ -1,8 +1,53 @@
-- 👋 Hi, I’m VerdeLab
-- 👀 I’m interested in NLP projects, with Python, C# and Javascript.
-- 🤩 We leverage Artificial Intelligence and Machine Learning to streamline routes, offer shortcuts, and enhance user interfaces.
+# VerdeLab
 
-In addition to being active in the field of consultancy and custom software development, we __produces and sells__ internally developed solutions and components. If you are a software company looking to expand your offerings or a sales representative, do not hesitate to contact us.
+**Intelligenza artificiale applicata. Sul serio.**
+
+Siamo una software house con sede ad Albinea (RE) · 25+ anni di esperienza.
+Costruiamo sistemi AI che lavorano davvero — integrati nei processi, misurabili nei risultati.
+
+---
+
+## Cosa costruiamo
+
+- 🤖 **Agentic AI & Orchestrazione** — agenti autonomi che ragionano, delegano e agiscono
+- 🧠 **NLP & Generative AI** — semantica, estrazione, sintesi, generazione su dati reali
+- ⚙️ **Automazione zero-touch** — processi ripetitivi eliminati, non solo ottimizzati
+- 🔒 **AI on-premise & open source** — LLM locali per chi non vuole dipendere dal cloud
+- 🛠️ **Full Stack** — backend, API, web app e mobile coordinati da un unico interlocutore
+
+---
+
+## Stack & tecnologie
+
+Python · C# · JavaScript · LLM · Prompt Engineering · Machine Learning · REST API · SQL Server
+
+---
+
+## Progetti attivi e recenti
+
+- 🔴 **CleverFlow** — email, documenti ed ERP connessi in un unico workflow senza toccare nulla
+- 🏥 **Turni.AI** — pianificazione intelligente del personale in strutture sanitarie e assistenziali
+- 💎 **Jewels AI** — design generativo applicato alla gioielleria artigianale
+- 📚 **Blaise AI** — ambiente di apprendimento specialistico con AI integrata
+- 🔊 **Tra'ntra** — trascrizione, traduzione e sintesi audio/video (2022, quando non lo faceva ancora nessuno)
+
+---
+
+## Con chi collaboriamo
+
+- 🔬 **[Promete](https://www.promete.it/)** — spin-off INFM-CNR, partner scientifico dal 2003. Con loro è nato OMEO, il nostro primo progetto NLP in un'epoca in cui i Large Language Model non esistevano ancora.
+- 🎨 **[Polaris Creative Studio](https://polariscreative.studio/)** — UX/UI e digital experience. Perché un sistema AI che nessuno sa usare non produce risultati.
+
+---
+
+## Formiamo, non solo sviluppiamo
+
+Corsi pratici per team aziendali e sviluppatori:
+**Prompt Engineering avanzato** · **Vibe Coding** · **LLM in locale**
+
+---
+
+*"Passi misurabili. Controllo in ogni fase. Risultati verificabili prima di andare oltre."*
 
 **LOCATION:**
 Albinea (RE), Italy
