@@ -1,53 +1,53 @@
 # VerdeLab
 
-**Intelligenza artificiale applicata. Sul serio.**
+**Applied artificial intelligence. For real.**
 
-Siamo una software house con sede ad Albinea (RE) · 25+ anni di esperienza.
-Costruiamo sistemi AI che lavorano davvero — integrati nei processi, misurabili nei risultati.
-
----
-
-## Cosa costruiamo
-
-- 🤖 **Agentic AI & Orchestrazione** — agenti autonomi che ragionano, delegano e agiscono
-- 🧠 **NLP & Generative AI** — semantica, estrazione, sintesi, generazione su dati reali
-- ⚙️ **Automazione zero-touch** — processi ripetitivi eliminati, non solo ottimizzati
-- 🔒 **AI on-premise & open source** — LLM locali per chi non vuole dipendere dal cloud
-- 🛠️ **Full Stack** — backend, API, web app e mobile coordinati da un unico interlocutore
+We are a software house based in Albinea (RE), Italy · 25+ years of experience.
+We build AI systems that actually work — integrated into real processes, with measurable results.
 
 ---
 
-## Stack & tecnologie
+## What we build
+
+- 🤖 **Agentic AI & Orchestration** — autonomous agents that reason, delegate and act
+- 🧠 **NLP & Generative AI** — semantics, extraction, summarization, generation on real data
+- ⚙️ **Zero-touch automation** — repetitive processes eliminated, not just optimized
+- 🔒 **On-premise & open source AI** — local LLMs for those who don't want to depend on the cloud
+- 🛠️ **Full Stack** — backend, APIs, web and mobile apps coordinated by a single point of contact
+
+---
+
+## Stack & technologies
 
 Python · C# · JavaScript · LLM · Prompt Engineering · Machine Learning · REST API · SQL Server
 
 ---
 
-## Progetti attivi e recenti
+## Active and recent projects
 
-- 🔴 **CleverFlow** — email, documenti ed ERP connessi in un unico workflow senza toccare nulla
-- 🏥 **Turni.AI** — pianificazione intelligente del personale in strutture sanitarie e assistenziali
-- 💎 **Jewels AI** — design generativo applicato alla gioielleria artigianale
-- 📚 **Blaise AI** — ambiente di apprendimento specialistico con AI integrata
-- 🔊 **Tra'ntra** — trascrizione, traduzione e sintesi audio/video (2022, quando non lo faceva ancora nessuno)
-
----
-
-## Con chi collaboriamo
-
-- 🔬 **[Promete](https://www.promete.it/)** — spin-off INFM-CNR, partner scientifico dal 2003. Con loro è nato OMEO, il nostro primo progetto NLP in un'epoca in cui i Large Language Model non esistevano ancora.
-- 🎨 **[Polaris Creative Studio](https://polariscreative.studio/)** — UX/UI e digital experience. Perché un sistema AI che nessuno sa usare non produce risultati.
+- 🔴 **CleverFlow** — emails, documents and ERP connected in a single workflow, zero human intervention
+- 🏥 **Turni.AI** — intelligent staff scheduling for healthcare and care facilities
+- 💎 **Jewels AI** — generative design applied to artisan jewelry
+- 📚 **Blaise AI** — specialized learning environment with integrated AI
+- 🔊 **Tra'ntra** — audio/video transcription, translation and summarization (2022, before everyone else did it)
 
 ---
 
-## Formiamo, non solo sviluppiamo
+## Who we work with
 
-Corsi pratici per team aziendali e sviluppatori:
-**Prompt Engineering avanzato** · **Vibe Coding** · **LLM in locale**
+- 🔬 **[Promete](https://www.promete.it/)** — INFM-CNR spin-off, scientific partner since 2003. Together we built OMEO, our first NLP project at a time when Large Language Models didn't exist yet.
+- 🎨 **[Polaris Creative Studio](https://polariscreative.studio/)** — UX/UI and digital experience. Because an AI system nobody knows how to use produces no results.
 
 ---
 
-*"Passi misurabili. Controllo in ogni fase. Risultati verificabili prima di andare oltre."*
+## We train, not just develop
+
+Hands-on courses for business teams and developers:
+**Advanced Prompt Engineering** · **Vibe Coding** · **Local LLMs**
+
+---
+
+*"Measurable steps. Control at every stage. Verifiable results before moving forward."*
 
 **LOCATION:**
 Albinea (RE), Italy
