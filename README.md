@@ -82,6 +82,19 @@ The architecture is agentic by design: modular, adaptable to the specific docume
 
 ---
 
+## 🏥 Turni.AI — Intelligent staff scheduling for healthcare facilities
+
+A project with deep roots: the system behind Turni.AI has been in production for over 25 years. This is not a new idea imposed on an old problem, but a software that knows that problem from the inside — now rewritten with the tools that artificial intelligence finally makes possible.
+
+**THE CONCEPT**
+Scheduling shifts in a healthcare facility is not a calendar problem. It is a system of intertwined constraints: collective agreements, specializations, minimum staffing per ward, personal preferences, urgent substitutions, and ever-changing regulations. A scheduling error is not just an organisational issue — it has direct consequences on the quality of care and patient safety.
+
+Turni.AI reasons through this constraint system autonomously: it generates optimal schedules, identifies critical issues before they become problems, and drastically reduces the operational workload of coordinators. Those who manage staff stop chasing shifts and get back to doing their actual job.
+
+> Currently in active development. Available for hospitals, residential care facilities, private clinics and healthcare cooperatives.
+
+---
+
 # About Blaise
 ![Logopy39](https://user-images.githubusercontent.com/98537104/151770484-45817245-9283-44b6-b068-6b73ec6dcde7.svg) ![LogoC](https://user-images.githubusercontent.com/98537104/151771931-4dbfb2f0-5caa-400b-8d0d-10bfccea6983.svg) ![LogoJS](https://user-images.githubusercontent.com/98537104/151771980-1b53935f-b3ac-4e74-a376-787a1e697a42.svg)
 
@@ -167,27 +180,7 @@ Last but not least, a well-deserved mention goes to our amiable Blaise. We like 
 
 To borrow the words of the greatest of Italians, Dante Alighieri, we imagined and created Blaise as a trustworthy and sincere guide for us humans who were not made to live like brutes, but to pursue virtue and knowledge (cit. "che fatti non fummo per viver come bruti, ma per seguir virtute e canoscenza")
 
-# Our software modules available for your own projects
-![Logopy39](https://user-images.githubusercontent.com/98537104/151770484-45817245-9283-44b6-b068-6b73ec6dcde7.svg) ![LogoC](https://user-images.githubusercontent.com/98537104/151771931-4dbfb2f0-5caa-400b-8d0d-10bfccea6983.svg) ![LogoJS](https://user-images.githubusercontent.com/98537104/151771980-1b53935f-b3ac-4e74-a376-787a1e697a42.svg)
-
-#### We built NLP modules to assolve specific purposes: summarize text, translate from a language to another, extract keywords, highlight n-gram etc...and of course we are especially skilled on Italian language. The software modules can be organized in pipelines in which the modules cooperate to assolve more complex purposes.
-
->![Pipeline drawio](https://user-images.githubusercontent.com/98537104/151803224-69b05f8a-afce-4fb1-8098-cf6e1ea64bcf.png)
-
-### ✔ **AVAILABLE MODULES**
-
-* #### *Summarizers:*  the summarizer picks up the original text and extracts the significative sentences. Users can select the language, the number of sentences and most of all, the algorithm with the best performance between ```Text Rank```, ```Latent Semantic Analysis```, ```KL-Sum```, ```Lex Rank```, ```Edmundson``` heurestic method with previous statistic research, Luhn or Reduction method.
-* #### *Text Extractors:*  we use parsers to automatically extract the textual parts from ```TXT``` and ```PDF``` files, ```HTML``` pages, ```YouTube``` videos or E-Mail. The extrapolated text will be analyzed in order to obtain semantic and statistical data.
-* #### *Translaters:*  we use the ```Google Translate API``` to translate texts from a language to another.
-* #### *Luigo Chatbot:*  Luigo is an Italian language conversational chatbot, we implement it in our software solutions for a pleasant user experience.
-* #### *Textual Analyzers:*  this module uses the ```Python NLTK``` to extract keywords, highligh n-grams, words frequences and so on 
-* #### *The Semantic Search Engine with* ```Dynamic Graph GUI```
-* #### *Wordnet:*  this module uses the ```Python NLTK``` and the ```Wordnet corpus``` to extract lemma's antonyms, sinonyms, hyponyms, hyperonyms
-* #### *GPT-3:* we use the ```OpenAI``` power to best perform summaries, transcriptions and semantic search
-
-### ✔ **COMING SOON MODULES**
-* #### *Classifiers:*  we will improve a specific module to estract intents from texts and uses them for tag classification of contents.
-* #### *Event Driven Chatbot:*  it means a Luigo Chatbot upgrade, the chatbot will guess the proper action to do from the conversational thread.
+---
 
 # NoNLP 😉 PROJECTS
 >![Logopy39](https://user-images.githubusercontent.com/98537104/151770484-45817245-9283-44b6-b068-6b73ec6dcde7.svg) ![LogoC](https://user-images.githubusercontent.com/98537104/151771931-4dbfb2f0-5caa-400b-8d0d-10bfccea6983.svg) ![LogoJS](https://user-images.githubusercontent.com/98537104/151771980-1b53935f-b3ac-4e74-a376-787a1e697a42.svg)
