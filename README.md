@@ -78,7 +78,7 @@ The dashboard gives operators full visibility: extraction flow, validation queue
 
 The architecture is agentic by design: modular, adaptable to the specific documents, languages and ERP logic of each client. No two deployments are identical, because no two companies work the same way.
 
-> > Currently in active development and deployment across manufacturing industry clients, in collaboration with Passepartout Mexal system integrators.
+> Currently in active development and deployment across manufacturing industry clients, in collaboration with Passepartout Mexal system integrators.
 
 ---
 
