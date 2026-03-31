@@ -196,7 +196,7 @@ Agentic Workflows: Developing autonomous entities that interact directly with yo
 
 Our SQL-based solutions are easy to deploy, easy to integrate into existing workflows, and most of all, easy to consume.
 
->![Logopy39](https://user-images.githubusercontent.com/98537104/151770484-45817245-9283-44b6-b068-6b73ec6dcde7.svg) ![LogoC](https://user-images.githubusercontent.com/98537104/151771931-4dbfb2f0-5caa-400b-8d0d-10bfccea6983.svg) ![LogoJS](https://user-images.githubusercontent.com/98537104/151771980-1b53935f-b3ac-4e74-a376-787a1e697a42.svg)
+>![01](https://user-images.githubusercontent.com/98537104/153820633-1aee7840-041d-4879-a905-43d80ae63a88.png)
 
 ---
 
