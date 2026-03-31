@@ -95,7 +95,7 @@ Turni.AI reasons through this constraint system autonomously: it generates optim
 
 ---
 
-# About Blaise
+##  🎓 Blaise AI
 ![Logopy39](https://user-images.githubusercontent.com/98537104/151770484-45817245-9283-44b6-b068-6b73ec6dcde7.svg) ![LogoC](https://user-images.githubusercontent.com/98537104/151771931-4dbfb2f0-5caa-400b-8d0d-10bfccea6983.svg) ![LogoJS](https://user-images.githubusercontent.com/98537104/151771980-1b53935f-b3ac-4e74-a376-787a1e697a42.svg)
 
 We are particularly proud of this project.
@@ -180,7 +180,7 @@ Last but not least, a well-deserved mention goes to our amiable Blaise. We like 
 
 To borrow the words of the greatest of Italians, Dante Alighieri, we imagined and created Blaise as a trustworthy and sincere guide for us humans who were not made to live like brutes, but to pursue virtue and knowledge (cit. "che fatti non fummo per viver come bruti, ma per seguir virtute e canoscenza")
 
-> Project developed in 2023
+> Developed in 2023
 
 ---
 
@@ -217,8 +217,6 @@ Our SQL-based solutions are easy to deploy, easy to integrate into existing work
 
 
 
-### ✔ **EXAMPLE OF ARCHITECTURAL SCHEMA**
->![05](https://user-images.githubusercontent.com/98537104/153820878-9f417047-79cc-48a9-8d5c-900790a55986.png)
 
 
 ### ✔ **LINGUISTIC RESOURSES**
