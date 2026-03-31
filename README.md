@@ -200,29 +200,6 @@ Our SQL-based solutions are easy to deploy, easy to integrate into existing work
 
 ---
 
-# NoNLP 😉 PROJECTS
->![Logopy39](https://user-images.githubusercontent.com/98537104/151770484-45817245-9283-44b6-b068-6b73ec6dcde7.svg) ![LogoC](https://user-images.githubusercontent.com/98537104/151771931-4dbfb2f0-5caa-400b-8d0d-10bfccea6983.svg) ![LogoJS](https://user-images.githubusercontent.com/98537104/151771980-1b53935f-b3ac-4e74-a376-787a1e697a42.svg)
-
-#### Not only NLP...we also develop Machine Learning solutions for your particular business needs.
-#### The algorithms perform the data mining and statistical analysis, determining trends and patterns in data, the predictive analytics are used to obtain previously unseen information about your environment.  
-#### Our sql-based solutions are ```easy``` to deploy, ```easy``` to integrate in existing tools and workflows and most of all are ```easy``` to consume.
->![01](https://user-images.githubusercontent.com/98537104/153820633-1aee7840-041d-4879-a905-43d80ae63a88.png)
-
-
->![02](https://user-images.githubusercontent.com/98537104/153820658-aa326cf4-4dd3-43cb-8a78-1585f3817e46.png)
-
-
->![03](https://user-images.githubusercontent.com/98537104/153820675-f640c2c0-f928-419c-9de4-31358c5e762c.png)
-
-
->![04](https://user-images.githubusercontent.com/98537104/153820695-7e6133d7-b302-4fa4-a6db-4d0bd1b0159a.png)
-
-
-
-
-
-### ✔ **LINGUISTIC RESOURSES**
-#### 👀 For the NLP projects we use our property Italian Language corpora
 
 
 
