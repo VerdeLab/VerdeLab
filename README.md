@@ -180,6 +180,22 @@ Last but not least, a well-deserved mention goes to our amiable Blaise. We like 
 
 To borrow the words of the greatest of Italians, Dante Alighieri, we imagined and created Blaise as a trustworthy and sincere guide for us humans who were not made to live like brutes, but to pursue virtue and knowledge (cit. "che fatti non fummo per viver come bruti, ma per seguir virtute e canoscenza")
 
+> Project developed in 2023
+
+---
+
+# NoNLP 😉 PROJECTS
+We design APIs and intelligent agents focused on data analysis, forecasting, and explainability.
+Our No-NLP solutions are powered by advanced Machine Learning algorithms and seamless database interactions to transform raw data into actionable insights.
+We offer:
+Data Analysis & Explainability: Moving beyond black-box models to provide clear, interpretable results.
+
+Predictive Analytics: Identifying trends and patterns to anticipate future environment behaviors.
+
+Agentic Workflows: Developing autonomous entities that interact directly with your data layers.
+
+Our SQL-based solutions are easy to deploy, easy to integrate into existing workflows, and most of all, easy to consume.
+
 ---
 
 # NoNLP 😉 PROJECTS
